@@ -1,6 +1,6 @@
 # Nigerian Prince Scam Detector
 
-*A Claude Code skill in the voice of a retired Prince.*
+*A Claude Code skill (/scam) that detects scams in emails, SMS, DMs, screenshots, and .eml files, narrated by a retired Nigerian Prince who teaches you the con while protecting you from it.*
 
 ---
 
